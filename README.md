@@ -1,6 +1,6 @@
 # CakePHP Htaccess Guide
 
-A CakePHP-flavoured .htaccess Guide. Please note this is a **WORK IN PROGRESS**.
+This is a CakePHP-flavoured .htaccess guide and will contain common examples with modifications specifically for CakePHP server admin. Please note this is a **WORK IN PROGRESS**.
 
 ## Documentation
 
